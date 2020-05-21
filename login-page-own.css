@@ -1,0 +1,56 @@
+* {
+	padding: 0px;
+	margin: 0px;
+	font-family: serif;
+	font-size: 20px;
+	font-weight: bold;
+	color: crimson;
+
+}
+.container {
+	margin:5% 30%;
+	border: 3px solid purple;
+	background: #F0E68C;
+
+}
+.container-pad {
+	padding: 50px;
+}
+.pad {
+	padding: 10px;
+}
+.btn {
+	width: 25%;
+	padding: 10px;
+	margin-left: 2%;
+	background: yellow;
+}
+.btn:hover {
+	color: blue;
+}
+hr{
+	margin:2%;
+	margin-top: 4%;
+}
+h1{
+	font-size: 40px;
+	font-weight: bold;
+	font-family: sans-serif;
+	text-align: center;
+	margin-bottom: 5%;
+	color: red;
+
+
+}
+a {
+	color:blue;
+	padding-left: 2px;
+}
+a:hover {
+	color:red;
+}
+body {
+	background: url("background2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
